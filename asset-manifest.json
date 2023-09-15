@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a336926.css",
-    "main.js": "/static/js/main.3bf5c915.js",
-    "static/js/787.b1bf2b1a.chunk.js": "/static/js/787.b1bf2b1a.chunk.js",
-    "static/media/vhs.jpg": "/static/media/vhs.c5614e9c34b8f5461be3.jpg",
-    "index.html": "/index.html",
-    "main.0a336926.css.map": "/static/css/main.0a336926.css.map",
-    "main.3bf5c915.js.map": "/static/js/main.3bf5c915.js.map",
-    "787.b1bf2b1a.chunk.js.map": "/static/js/787.b1bf2b1a.chunk.js.map"
+    "main.css": "/vhsBounce/static/css/main.0a336926.css",
+    "main.js": "/vhsBounce/static/js/main.12049b3a.js",
+    "static/js/787.b1bf2b1a.chunk.js": "/vhsBounce/static/js/787.b1bf2b1a.chunk.js",
+    "static/media/vhs.jpg": "/vhsBounce/static/media/vhs.c5614e9c34b8f5461be3.jpg",
+    "index.html": "/vhsBounce/index.html",
+    "main.0a336926.css.map": "/vhsBounce/static/css/main.0a336926.css.map",
+    "main.12049b3a.js.map": "/vhsBounce/static/js/main.12049b3a.js.map",
+    "787.b1bf2b1a.chunk.js.map": "/vhsBounce/static/js/787.b1bf2b1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a336926.css",
-    "static/js/main.3bf5c915.js"
+    "static/js/main.12049b3a.js"
   ]
 }
