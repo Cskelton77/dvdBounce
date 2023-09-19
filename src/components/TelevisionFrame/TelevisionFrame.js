@@ -3,7 +3,9 @@ import styles from "./TelevisionFrame.module.scss";
 const TelevisionFrame = ({ children }) => {
   const speakerGrille = [];
   for (let x = 0; x < 100; x++) {
-    speakerGrille.push(<span className={styles.speakerGrilleBar}></span>);
+    speakerGrille.push(
+      <span key={x} className={styles.speakerGrilleBar}></span>
+    );
   }
 
   return (
